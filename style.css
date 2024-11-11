@@ -10,7 +10,7 @@ body {
 
 .card {
     background: color(white);
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra más prominente */
     padding: 40px; /* Aumenta el padding para más espacio */
     width: 90%; /* Ancho responsivo */
